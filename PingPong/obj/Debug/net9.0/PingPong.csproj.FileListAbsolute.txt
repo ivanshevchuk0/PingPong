@@ -1,0 +1,15 @@
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\bin\Debug\net9.0\PingPong.exe
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\bin\Debug\net9.0\PingPong.deps.json
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\bin\Debug\net9.0\PingPong.runtimeconfig.json
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\bin\Debug\net9.0\PingPong.dll
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\bin\Debug\net9.0\PingPong.pdb
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\obj\Debug\net9.0\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\obj\Debug\net9.0\PingPong.AssemblyInfoInputs.cache
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\obj\Debug\net9.0\PingPong.AssemblyInfo.cs
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\obj\Debug\net9.0\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\obj\Debug\net9.0\PingPong.sourcelink.json
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\obj\Debug\net9.0\PingPong.dll
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\obj\Debug\net9.0\refint\PingPong.dll
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\obj\Debug\net9.0\PingPong.pdb
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\obj\Debug\net9.0\PingPong.genruntimeconfig.cache
+C:\Users\Ivan\OneDrive\Рабочий стол\PingPong\PingPong\obj\Debug\net9.0\ref\PingPong.dll
